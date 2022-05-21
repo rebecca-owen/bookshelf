@@ -1,5 +1,34 @@
 [
   {
+    "title": "Leonardo Da Vinci",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2017-10-17",
+    "description": "\"He was history's most creative genius. What secrets can he teach us? The [bestselling biographer] brings Leonardo da Vinci to life in this exciting new biography. Drawing on thousands of pages from Leonardo's astonishing notebooks and new discoveries about his life and work, Walter Isaacson weaves a narrative that connects his art to his science. He shows how Leonardo's genius was based on skills we can improve in ourselves, such as passionate curiosity, careful observation, and an imagination so playful that it flirted with fantasy. His creativity, like that of other great innovators, came from standing at the intersection of the humanities and technology. He peeled flesh off the faces of cadavers, drew the muscles that move the lips, and then painted history's most memorable smile on the Mona Lisa. He explored the math of optics, showed how light rays strike the cornea, and produced illusions of changing perspectives in The Last Supper. Isaacson also describes how Leonardo's lifelong enthusiasm for staging theatrical productions informed his paintings and inventions. His ability to combine art and science, made iconic by his drawing of what may be himself inside a circle and a square, remains the enduring recipe for innovation. His life should remind us of the importance of instilling, both in ourselves and our children, not just received knowledge but a willingness to question it; to be imaginative and, like talented misfits and rebels in any era, to think different.\"--Jacket.",
+    "image": "http://books.google.com/books/content?id=vkA5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 37,
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 624,
+    "isbn10": "1501139150",
+    "isbn13": "9781501139154",
+    "googleBooks": {
+      "id": "vkA5DwAAQBAJ",
+      "preview": "http://books.google.com/books?id=vkA5DwAAQBAJ&printsec=frontcover&dq=intitle:Leonardo+da+Vinci+by+Walter+Isaacson&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=vkA5DwAAQBAJ&dq=intitle:Leonardo+da+Vinci+by+Walter+Isaacson&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Leonardo_Da_Vinci.html?hl=&id=vkA5DwAAQBAJ"
+    },
+    "issueNumber": 6,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-21T20:06:53.000Z"
+  },
+  {
     "title": "We Are Bellingcat",
     "authors": [
       "Eliot Higgins"
@@ -85,35 +114,6 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2022-05-21T15:50:31.000Z"
-  },
-  {
-    "title": "Steve Jobs",
-    "authors": [
-      "Walter Isaacson"
-    ],
-    "publisher": "Simon and Schuster",
-    "publishedDate": "2011",
-    "description": "Draws on more than forty interviews with Steve Jobs, as well as interviews with family members, friends, competitors, and colleagues to offer a look at the co-founder and leading creative force behind the Apple computer company.",
-    "image": "http://books.google.com/books/content?id=8U2oAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 3906,
-    "categories": [
-      "Biography & Autobiography"
-    ],
-    "pageCount": 630,
-    "isbn10": "1451648545",
-    "isbn13": "9781451648546",
-    "googleBooks": {
-      "id": "8U2oAAAAQBAJ",
-      "preview": "http://books.google.com/books?id=8U2oAAAAQBAJ&pg=PR1&dq=intitle:+Leonardo+da+Vinci+by+Walter+Isaacson&hl=&cd=3&source=gbs_api",
-      "info": "http://books.google.com/books?id=8U2oAAAAQBAJ&dq=intitle:+Leonardo+da+Vinci+by+Walter+Isaacson&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Steve_Jobs.html?hl=&id=8U2oAAAAQBAJ"
-    },
-    "issueNumber": 2,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-21T15:50:11.000Z"
   },
   {
     "title": "This Is How You Lose the Time War",
