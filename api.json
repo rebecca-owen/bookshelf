@@ -1,5 +1,34 @@
 [
   {
+    "title": "Steve Jobs",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2011",
+    "description": "Draws on more than forty interviews with Steve Jobs, as well as interviews with family members, friends, competitors, and colleagues to offer a look at the co-founder and leading creative force behind the Apple computer company.",
+    "image": "http://books.google.com/books/content?id=8U2oAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 3906,
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 630,
+    "isbn10": "1451648545",
+    "isbn13": "9781451648546",
+    "googleBooks": {
+      "id": "8U2oAAAAQBAJ",
+      "preview": "http://books.google.com/books?id=8U2oAAAAQBAJ&pg=PR1&dq=intitle:+Leonardo+da+Vinci+by+Walter+Isaacson&hl=&cd=3&source=gbs_api",
+      "info": "http://books.google.com/books?id=8U2oAAAAQBAJ&dq=intitle:+Leonardo+da+Vinci+by+Walter+Isaacson&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Steve_Jobs.html?hl=&id=8U2oAAAAQBAJ"
+    },
+    "issueNumber": 2,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-21T15:50:11.000Z"
+  },
+  {
     "title": "This Is How You Lose the Time War",
     "authors": [
       "Amal El-Mohtar",
