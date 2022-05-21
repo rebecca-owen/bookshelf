@@ -1,5 +1,34 @@
 [
   {
+    "title": "We Are Bellingcat",
+    "authors": [
+      "Eliot Higgins"
+    ],
+    "publisher": "Bloomsbury Publishing USA",
+    "publishedDate": "2021-03-02",
+    "description": "The page-turning inside account of the organization solving international mysteries and wielding the power of the internet to fight for facts.",
+    "image": "http://books.google.com/books/content?id=Q_haEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 4,
+    "categories": [
+      "Political Science"
+    ],
+    "pageCount": 272,
+    "isbn10": "1635577306",
+    "isbn13": "9781635577303",
+    "googleBooks": {
+      "id": "Q_haEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=Q_haEAAAQBAJ&dq=intitle:We+Are+Bellingcat:+Global+Crime,+Online+Sleuths,+and+the+Bold+Future+of+News+by+Eliot+Higgins&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=Q_haEAAAQBAJ&dq=intitle:We+Are+Bellingcat:+Global+Crime,+Online+Sleuths,+and+the+Bold+Future+of+News+by+Eliot+Higgins&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/We_Are_Bellingcat.html?hl=&id=Q_haEAAAQBAJ"
+    },
+    "issueNumber": 5,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-21T15:52:16.000Z"
+  },
+  {
     "title": "The 4-hour Workweek",
     "authors": [
       "Timothy Ferriss"
