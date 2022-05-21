@@ -1,5 +1,63 @@
 [
   {
+    "title": "The 4-hour Workweek",
+    "authors": [
+      "Timothy Ferriss"
+    ],
+    "publisher": "Harmony",
+    "publishedDate": "2009",
+    "description": "An edition expanded with more than 100 pages of new content offers a blueprint for a better life, whether one's dream is escaping the rat race, experiencing high-end world travel, earning a monthly five-figure income with zero management or just living more and working less.",
+    "image": "http://books.google.com/books/content?id=hNmODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 44,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 396,
+    "isbn10": "0307465357",
+    "isbn13": "9780307465351",
+    "googleBooks": {
+      "id": "hNmODQAAQBAJ",
+      "preview": "http://books.google.com/books?id=hNmODQAAQBAJ&printsec=frontcover&dq=intitle:The+4-Hour+Work+Week+by+Tim+Ferriss&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=hNmODQAAQBAJ&dq=intitle:The+4-Hour+Work+Week+by+Tim+Ferriss&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_4_hour_Workweek.html?hl=&id=hNmODQAAQBAJ"
+    },
+    "issueNumber": 4,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-21T15:51:52.000Z"
+  },
+  {
+    "title": "Dark Matter",
+    "authors": [
+      "Blake Crouch"
+    ],
+    "publisher": "Ballantine Books",
+    "publishedDate": "2017",
+    "description": "\"Extra Libris: Essays, Reader's Guides, and More\"--Page [345].",
+    "image": "http://books.google.com/books/content?id=5YqVDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 1007,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 359,
+    "isbn10": "1101904240",
+    "isbn13": "9781101904244",
+    "googleBooks": {
+      "id": "5YqVDgAAQBAJ",
+      "preview": "http://books.google.com/books?id=5YqVDgAAQBAJ&printsec=frontcover&dq=intitle:Dark+Matter+by+Blake+Crouch&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=5YqVDgAAQBAJ&dq=intitle:Dark+Matter+by+Blake+Crouch&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Dark_Matter.html?hl=&id=5YqVDgAAQBAJ"
+    },
+    "issueNumber": 3,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-21T15:50:31.000Z"
+  },
+  {
     "title": "Steve Jobs",
     "authors": [
       "Walter Isaacson"
