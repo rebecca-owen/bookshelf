@@ -1,5 +1,31 @@
 [
   {
+    "title": "Their Eyes Were Watching God",
+    "authors": [
+      "Zora Neale Hurston"
+    ],
+    "publisher": "Virago Press",
+    "publishedDate": "2018-05-03",
+    "description": "'Their Eyes Were Watching God is one of the very greatest American novels of the 20th century. It is so lyrical it should be sentimental; it is so passionate it should be overwrought, but it is instead a rigorous, convincing and dazzling piece of prose, as emotionally satisfying as it is impressive. There is no novel I love more' ZADIE SMITH 'She was stretched on her back beneath the pear tree soaking in the alto chant of the visiting bees, the gold of the sun and the panting breath of the breeze when the inaudible voice of it all came to her' When, at sixteen, Janie is caught kissing shiftless Johnny Taylor, her grandmother swiftly marries her off to and old man with sixty acres. Jane endures two stifling marriages before she finally meets the man of her dreams - who offers not diamonds, but a packet of flowering seeds. WITH AN INTRODUCTION BY ZADIE SMITH Books included in the VMC 40th anniversary series include: Frost in May by Antonia White; The Collected Stories of Grace Paley; Fire from Heaven by Mary Renault; The Magic Toyshop by Angela Carter; The Weather in the Streets by Rosamond Lehmann; Deep Water by Patricia Highsmith; The Return of the Soldier by Rebecca West; Their Eyes Were Watching God by Zora Neale Hurston; Heartburn by Nora Ephron; The Dud Avocado by Elaine Dundy; Memento Mori by Muriel Spark; A View of the Harbour by Elizabeth Taylor; and Faces in the Water by Janet Frame",
+    "image": "http://books.google.com/books/content?id=-zzrswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 162,
+    "pageCount": 256,
+    "isbn10": "0349010331",
+    "isbn13": "9780349010335",
+    "googleBooks": {
+      "id": "-zzrswEACAAJ",
+      "preview": "http://books.google.com/books?id=-zzrswEACAAJ&dq=intitle:Their+Eyes+Were+Watching+God+by+Zora+Neale+Hurston&hl=&cd=8&source=gbs_api",
+      "info": "http://books.google.com/books?id=-zzrswEACAAJ&dq=intitle:Their+Eyes+Were+Watching+God+by+Zora+Neale+Hurston&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Their_Eyes_Were_Watching_God.html?hl=&id=-zzrswEACAAJ"
+    },
+    "issueNumber": 7,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-22T18:56:39.000Z"
+  },
+  {
     "title": "Leonardo Da Vinci",
     "authors": [
       "Walter Isaacson"
