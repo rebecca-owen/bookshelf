@@ -112,8 +112,11 @@
     },
     "issueNumber": 3,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-21T15:50:31.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-21T15:50:31.000Z",
+    "completedAt": "2022-05-22T08:46:31.000Z",
+    "timeToComplete": 60960000,
+    "timeToCompleteFormatted": "16 hours"
   },
   {
     "title": "This Is How You Lose the Time War",
