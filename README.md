@@ -20,5 +20,5 @@ This repository is used to track the books I'm reading, powered by [Bookshelf Ac
 
 ## 📄 License
 
-Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com)
+Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com) \
 Powered by: [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action)
