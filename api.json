@@ -1,5 +1,60 @@
 [
   {
+    "title": "Year of Wonder",
+    "authors": [
+      "Clemency Burton-Hill"
+    ],
+    "publisher": "HarperCollins",
+    "publishedDate": "2018-10-30",
+    "description": "“Year of Wonder is an absolute treat—the most enlightening way to be guided through the year.” — Eddie Redmayne A unique celebration of classical music that showcases one inspirational piece each day of the year, written by an award-winning violinist and BBC Radio personality Classical music has a reputation for being stuffy, boring, and largely inaccessible, but Burton-Hill is here to change that. An award-winning writer, broadcaster and musician, with a deep love of the art form she wants everyone to feel welcome at the classical party, and her desire to share her passion for its diverse wonders inspired this unique, enlightening, and expertly curated treasury. As she says, “The only requirements for enjoying classical music are open ears and an open mind.” Year of Wonder introduces readers to one piece of music each day of the year, artfully selected from across genres, time periods, and composers. Burton-Hill offers short introductions to contextualize each piece, and makes the music come alive in modern and playful ways. From Bach, Beethoven, Mozart, and Puccini to George Gershwin, Clara Schumann, Philip Glass, Duke Ellington, and many remarkable yet often-overlooked voices, Burton-Hill takes us on a dazzling journey through our most treasured musical landscape. Thoughtfully curated and masterfully researched, Year of Wonder is a book of classical music for everyone. Whether you’re a newcomer or an aficionado, Burton-Hill’s celebration will inspire, nourish, and enrich your life in unexpected ways.",
+    "image": "http://books.google.com/books/content?id=5ltKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3,
+    "ratingsCount": 1,
+    "categories": [
+      "Music"
+    ],
+    "pageCount": 448,
+    "isbn10": "0062856219",
+    "isbn13": "9780062856210",
+    "googleBooks": {
+      "id": "5ltKDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=5ltKDwAAQBAJ&printsec=frontcover&dq=intitle:Year+of+Wonder:+Classical+Music+for+Every+Day+by+Clemency+Burton-Hill&hl=&cd=3&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=5ltKDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=5ltKDwAAQBAJ"
+    },
+    "issueNumber": 8,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-24T14:05:25.000Z"
+  },
+  {
+    "title": "Their Eyes Were Watching God",
+    "authors": [
+      "Zora Neale Hurston"
+    ],
+    "publisher": "Virago Press",
+    "publishedDate": "2018-05-03",
+    "description": "'Their Eyes Were Watching God is one of the very greatest American novels of the 20th century. It is so lyrical it should be sentimental; it is so passionate it should be overwrought, but it is instead a rigorous, convincing and dazzling piece of prose, as emotionally satisfying as it is impressive. There is no novel I love more' ZADIE SMITH 'She was stretched on her back beneath the pear tree soaking in the alto chant of the visiting bees, the gold of the sun and the panting breath of the breeze when the inaudible voice of it all came to her' When, at sixteen, Janie is caught kissing shiftless Johnny Taylor, her grandmother swiftly marries her off to and old man with sixty acres. Jane endures two stifling marriages before she finally meets the man of her dreams - who offers not diamonds, but a packet of flowering seeds. WITH AN INTRODUCTION BY ZADIE SMITH Books included in the VMC 40th anniversary series include: Frost in May by Antonia White; The Collected Stories of Grace Paley; Fire from Heaven by Mary Renault; The Magic Toyshop by Angela Carter; The Weather in the Streets by Rosamond Lehmann; Deep Water by Patricia Highsmith; The Return of the Soldier by Rebecca West; Their Eyes Were Watching God by Zora Neale Hurston; Heartburn by Nora Ephron; The Dud Avocado by Elaine Dundy; Memento Mori by Muriel Spark; A View of the Harbour by Elizabeth Taylor; and Faces in the Water by Janet Frame",
+    "image": "http://books.google.com/books/content?id=-zzrswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 162,
+    "pageCount": 256,
+    "isbn10": "0349010331",
+    "isbn13": "9780349010335",
+    "googleBooks": {
+      "id": "-zzrswEACAAJ",
+      "preview": "http://books.google.com/books?id=-zzrswEACAAJ&dq=intitle:Their+Eyes+Were+Watching+God+by+Zora+Neale+Hurston&hl=&cd=8&source=gbs_api",
+      "info": "http://books.google.com/books?id=-zzrswEACAAJ&dq=intitle:Their+Eyes+Were+Watching+God+by+Zora+Neale+Hurston&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Their_Eyes_Were_Watching_God.html?hl=&id=-zzrswEACAAJ"
+    },
+    "issueNumber": 7,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-22T18:56:39.000Z"
+  },
+  {
     "title": "Leonardo Da Vinci",
     "authors": [
       "Walter Isaacson"
