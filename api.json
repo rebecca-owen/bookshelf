@@ -200,7 +200,10 @@
     },
     "issueNumber": 1,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-21T15:45:06.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-21T15:45:06.000Z",
+    "completedAt": "2022-05-25T15:42:15.000Z",
+    "timeToComplete": 345429000,
+    "timeToCompleteFormatted": "3 days"
   }
 ]
