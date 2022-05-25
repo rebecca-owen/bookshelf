@@ -1,5 +1,34 @@
 [
   {
+    "title": "Beautiful World, Where Are You",
+    "authors": [
+      "Sally Rooney"
+    ],
+    "publisher": "Knopf Canada",
+    "publishedDate": "2021-09-07",
+    "description": "#1 INTERNATIONAL AND NATIONAL BESTSELLER A NEW YORK TIMES NOTABLE BOOK ONE OF TIME'S MUST-READ BOOKS OF 2021 NAMED A BEST BOOK OF THE YEAR BY BUZZFEED, ESQUIRE, THE GUARDIAN, KIRKUS REVIEWS AND FINANCIAL TIMES “Beautiful World, Where Are You is Rooney’s best novel yet. Funny and smart, full of sex and love and people doing their best to connect.” —The New York Times Alice, a novelist, meets Felix, who works in a warehouse, and asks him if he’d like to travel to Rome with her. In Dublin, her best friend Eileen is getting over a break-up and slips back into flirting with Simon, a man she has known since childhood. Alice, Felix, Eileen and Simon are still young—but life is catching up with them. They desire each other, they delude each other, they worry about sex and friendship and the world they live in. Are they standing in the last lighted room before the darkness, bearing witness to something? Will they find a way to believe in a beautiful world?",
+    "image": "http://books.google.com/books/content?id=h7gSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3,
+    "ratingsCount": 18,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 288,
+    "isbn10": "0735281807",
+    "isbn13": "9780735281806",
+    "googleBooks": {
+      "id": "h7gSEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=h7gSEAAAQBAJ&printsec=frontcover&dq=intitle:Beautiful+World,+Where+Are+You+by+Sally+Rooney&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=h7gSEAAAQBAJ&dq=intitle:Beautiful+World,+Where+Are+You+by+Sally+Rooney&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Beautiful_World_Where_Are_You.html?hl=&id=h7gSEAAAQBAJ"
+    },
+    "issueNumber": 9,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-25T23:18:16.000Z"
+  },
+  {
     "title": "Year of Wonder",
     "authors": [
       "Clemency Burton-Hill"

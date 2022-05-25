@@ -5,8 +5,9 @@ This repository is used to track the books I'm reading, powered by [Bookshelf Ac
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (5)
+### ⌛ Currently reading (6)
 
+[![Book cover of Beautiful World, Where Are You](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dh7gSEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rebecca-owen/bookshelf/issues/9 "Beautiful World, Where Are You by Sally Rooney")
 [![Book cover of Year of Wonder](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D5ltKDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rebecca-owen/bookshelf/issues/8 "Year of Wonder by Clemency Burton-Hill")
 [![Book cover of Their Eyes Were Watching God](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D-zzrswEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rebecca-owen/bookshelf/issues/7 "Their Eyes Were Watching God by Zora Neale Hurston")
 [![Book cover of Leonardo Da Vinci](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DvkA5DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rebecca-owen/bookshelf/issues/6 "Leonardo Da Vinci by Walter Isaacson")
