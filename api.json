@@ -1,5 +1,34 @@
 [
   {
+    "title": "Stories of Your Life and Others",
+    "authors": [
+      "Ted Chiang"
+    ],
+    "publisher": "Knopf",
+    "publishedDate": "2010-10-26",
+    "description": "From the author of Exhalation, an award-winning short story collection that blends \"absorbing storytelling with meditations on the universe, being, time and space ... raises questions about the nature of reality and what it is to be human\" (The New York Times). Stories of Your Life and Others delivers dual delights of the very, very strange and the heartbreakingly familiar, often presenting characters who must confront sudden change—the inevitable rise of automatons or the appearance of aliens—with some sense of normalcy. With sharp intelligence and humor, Chiang examines what it means to be alive in a world marked by uncertainty, but also by beauty and wonder. An award-winning collection from one of today's most lauded writers, Stories of Your Life and Others is a contemporary classic. Includes “Story of Your Life”—the basis for the major motion picture Arrival",
+    "image": "http://books.google.com/books/content?id=WTBA-wzX7cwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 76,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 288,
+    "isbn10": "1931520895",
+    "isbn13": "9781931520898",
+    "googleBooks": {
+      "id": "WTBA-wzX7cwC",
+      "preview": "http://books.google.com/books?id=WTBA-wzX7cwC&pg=PP7&dq=intitle:Stories+of+your+life+and+others+by+Ted+Chiang&hl=&cd=4&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=WTBA-wzX7cwC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=WTBA-wzX7cwC"
+    },
+    "issueNumber": 11,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-06-28T20:57:03.000Z"
+  },
+  {
     "title": "Building a Second Brain",
     "authors": [
       "Tiago Forte"
