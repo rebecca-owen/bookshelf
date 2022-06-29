@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Thursday Murder Club",
+    "authors": [
+      "Richard Osman"
+    ],
+    "publisher": "Viking",
+    "publishedDate": "2020-08-29",
+    "description": "Krimi. In a peaceful retirement village, four unlikely friends meet up once a week to investigate unsolved killings. But when a local property developer shows up dead, 'The Thursday Murder Club' find themselves in the middle of their first live case. The four friends, Elizabeth, Joyce, Ibrahim and Ron, might be octogenarians, but they still have a few tricks up their sleeves. Can our unorthodox but brilliant gang catch the killer, before it's too late?",
+    "image": "http://books.google.com/books/content?id=C8vhxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 65,
+    "categories": [
+      "Clubs"
+    ],
+    "pageCount": 400,
+    "isbn10": "0241425441",
+    "isbn13": "9780241425442",
+    "googleBooks": {
+      "id": "C8vhxQEACAAJ",
+      "preview": "http://books.google.com/books?id=C8vhxQEACAAJ&dq=intitle:The+Man+Who+Died+Twice+by+Richard+Osman&hl=&cd=7&source=gbs_api",
+      "info": "http://books.google.com/books?id=C8vhxQEACAAJ&dq=intitle:The+Man+Who+Died+Twice+by+Richard+Osman&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Thursday_Murder_Club.html?hl=&id=C8vhxQEACAAJ"
+    },
+    "issueNumber": 12,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-06-29T09:23:16.000Z"
+  },
+  {
     "title": "Stories of Your Life and Others",
     "authors": [
       "Ted Chiang"

@@ -5,8 +5,9 @@ This repository is used to track the books I'm reading, powered by [Bookshelf Ac
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (5)
+### ⌛ Currently reading (6)
 
+[![Book cover of The Thursday Murder Club](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DC8vhxQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rebecca-owen/bookshelf/issues/12 "The Thursday Murder Club by Richard Osman")
 [![Book cover of Stories of Your Life and Others](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DWTBA-wzX7cwC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rebecca-owen/bookshelf/issues/11 "Stories of Your Life and Others by Ted Chiang")
 [![Book cover of Year of Wonder](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D5ltKDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rebecca-owen/bookshelf/issues/8 "Year of Wonder by Clemency Burton-Hill")
 [![Book cover of Leonardo Da Vinci](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DvkA5DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rebecca-owen/bookshelf/issues/6 "Leonardo Da Vinci by Walter Isaacson")
