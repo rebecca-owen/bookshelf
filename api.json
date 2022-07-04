@@ -1,5 +1,34 @@
 [
   {
+    "title": "Lincoln in the Bardo",
+    "authors": [
+      "George Saunders"
+    ],
+    "publisher": "Random House Trade Paperbacks",
+    "publishedDate": "2018-02-06",
+    "description": "#1 NEW YORK TIMES BESTSELLER • WINNER OF THE MAN BOOKER PRIZE The “devastatingly moving” (People) first novel from the author of Tenth of December: a moving and original father-son story featuring none other than Abraham Lincoln, as well as an unforgettable cast of supporting characters, living and dead, historical and invented Named One of Paste’s Best Novels of the Decade • Named One of the Ten Best Books of the Year by The Washington Post, USA Today, and Maureen Corrigan, NPR • One of Time’s Ten Best Novels of the Year • A New York Times Notable Book • One of O: The Oprah Magazine’s Best Books of the Year February 1862. The Civil War is less than one year old. The fighting has begun in earnest, and the nation has begun to realize it is in for a long, bloody struggle. Meanwhile, President Lincoln’s beloved eleven-year-old son, Willie, lies upstairs in the White House, gravely ill. In a matter of days, despite predictions of a recovery, Willie dies and is laid to rest in a Georgetown cemetery. “My poor boy, he was too good for this earth,” the president says at the time. “God has called him home.” Newspapers report that a grief-stricken Lincoln returns, alone, to the crypt several times to hold his boy’s body. From that seed of historical truth, George Saunders spins an unforgettable story of familial love and loss that breaks free of its realistic, historical framework into a supernatural realm both hilarious and terrifying. Willie Lincoln finds himself in a strange purgatory where ghosts mingle, gripe, commiserate, quarrel, and enact bizarre acts of penance. Within this transitional state—called, in the Tibetan tradition, the bardo—a monumental struggle erupts over young Willie’s soul. Lincoln in the Bardo is an astonishing feat of imagination and a bold step forward from one of the most important and influential writers of his generation. Formally daring, generous in spirit, deeply concerned with matters of the heart, it is a testament to fiction’s ability to speak honestly and powerfully to the things that really matter to us. Saunders has invented a thrilling new form that deploys a kaleidoscopic, theatrical panorama of voices to ask a timeless, profound question: How do we live and love when we know that everything we love must end? “A luminous feat of generosity and humanism.”—Colson Whitehead, The New York Times Book Review “A masterpiece.”—Zadie Smith",
+    "image": "http://books.google.com/books/content?id=xRVHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 138,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 368,
+    "isbn10": "0812985400",
+    "isbn13": "9780812985405",
+    "googleBooks": {
+      "id": "xRVHDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=xRVHDwAAQBAJ&printsec=frontcover&dq=intitle:Lincoln+in+the+Bardo+by+George+Saunders&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=xRVHDwAAQBAJ&dq=intitle:Lincoln+in+the+Bardo+by+George+Saunders&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Lincoln_in_the_Bardo.html?hl=&id=xRVHDwAAQBAJ"
+    },
+    "issueNumber": 13,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-07-04T12:43:28.000Z"
+  },
+  {
     "title": "The Thursday Murder Club",
     "authors": [
       "Richard Osman"
@@ -30,35 +59,6 @@
     "completedAt": "2022-07-04T06:38:47.000Z",
     "timeToComplete": 422131000,
     "timeToCompleteFormatted": "4 days"
-  },
-  {
-    "title": "Stories of Your Life and Others",
-    "authors": [
-      "Ted Chiang"
-    ],
-    "publisher": "Knopf",
-    "publishedDate": "2010-10-26",
-    "description": "From the author of Exhalation, an award-winning short story collection that blends \"absorbing storytelling with meditations on the universe, being, time and space ... raises questions about the nature of reality and what it is to be human\" (The New York Times). Stories of Your Life and Others delivers dual delights of the very, very strange and the heartbreakingly familiar, often presenting characters who must confront sudden change—the inevitable rise of automatons or the appearance of aliens—with some sense of normalcy. With sharp intelligence and humor, Chiang examines what it means to be alive in a world marked by uncertainty, but also by beauty and wonder. An award-winning collection from one of today's most lauded writers, Stories of Your Life and Others is a contemporary classic. Includes “Story of Your Life”—the basis for the major motion picture Arrival",
-    "image": "http://books.google.com/books/content?id=WTBA-wzX7cwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 76,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 288,
-    "isbn10": "1931520895",
-    "isbn13": "9781931520898",
-    "googleBooks": {
-      "id": "WTBA-wzX7cwC",
-      "preview": "http://books.google.com/books?id=WTBA-wzX7cwC&pg=PP7&dq=intitle:Stories+of+your+life+and+others+by+Ted+Chiang&hl=&cd=4&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=WTBA-wzX7cwC&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=WTBA-wzX7cwC"
-    },
-    "issueNumber": 11,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-06-28T20:57:03.000Z"
   },
   {
     "title": "Building a Second Brain",
