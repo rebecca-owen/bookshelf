@@ -1,5 +1,34 @@
 [
   {
+    "title": "First Person Singular",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2021-04-06",
+    "description": "NATIONAL BEST SELLER • A mind-bending new collection of short stories from the internationally acclaimed, best-selling author. • “Some novelists hold a mirror up to the world and some, like Haruki Murakami, use the mirror as a portal to a universe hidden beyond it.” —The Wall Street Journal The eight stories in this new book are all told in the first person by a classic Murakami narrator. From memories of youth, meditations on music, and an ardent love of baseball, to dreamlike scenarios and invented jazz albums, together these stories challenge the boundaries between our minds and the exterior world. Occasionally, a narrator may or may not be Murakami himself. Is it memoir or fiction? The reader decides. Philosophical and mysterious, the stories in First Person Singular all touch beautifully on love and solitude, childhood and memory. . . all with a signature Murakami twist.",
+    "image": "http://books.google.com/books/content?id=SYXwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 5,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 256,
+    "isbn10": "0593318080",
+    "isbn13": "9780593318089",
+    "googleBooks": {
+      "id": "SYXwDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=SYXwDwAAQBAJ&printsec=frontcover&dq=intitle:First+Person+Singular+by+Haruki+Murakami&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=SYXwDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=SYXwDwAAQBAJ"
+    },
+    "issueNumber": 16,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-07-13T08:15:03.000Z"
+  },
+  {
     "title": "Ask A Historian",
     "authors": [
       "Greg Jenner"
