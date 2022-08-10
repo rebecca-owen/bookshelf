@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Hundred Thousand Kingdoms",
+    "authors": [
+      "N. K. Jemisin"
+    ],
+    "publisher": "Orbit",
+    "publishedDate": "2010-02-25",
+    "description": "After her mother's mysterious death, a young woman is summoned to the floating city of Sky in order to claim a royal inheritance she never knew existed in the first book in this award-winning fantasy trilogy from the NYT bestselling author of The Fifth Season. Yeine Darr is an outcast from the barbarian north. But when her mother dies under mysterious circumstances, she is summoned to the majestic city of Sky. There, to her shock, Yeine is named an heiress to the king. But the throne of the Hundred Thousand Kingdoms is not easily won, and Yeine is thrust into a vicious power struggle with cousins she never knew she had. As she fights for her life, she draws ever closer to the secrets of her mother's death and her family's bloody history. With the fate of the world hanging in the balance, Yeine will learn how perilous it can be when love and hate - and gods and mortals - are bound inseparably together. The Inheritance Trilogy The Hundred Thousand KingdomsThe Broken KingdomsThe Kingdom of Gods The Inheritance Trilogy (omnibus edition) Shades in Shadow: An Inheritance Triptych (e-only short fiction) The Awakened Kingdom (e-only novella) For more from N. K. Jemisin, check out: Dreamblood DuologyThe Killing MoonThe Shadowed Sun The Broken Earth The Fifth SeasonThe Obelisk GateThe Stone Sky",
+    "image": "http://books.google.com/books/content?id=0uoqWWIauscC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 143,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 432,
+    "isbn10": "0316075973",
+    "isbn13": "9780316075978",
+    "googleBooks": {
+      "id": "0uoqWWIauscC",
+      "preview": "http://books.google.com/books?id=0uoqWWIauscC&printsec=frontcover&dq=intitle:The+Fifth+Season+by+N+K+Jemisin&hl=&cd=9&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=0uoqWWIauscC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=0uoqWWIauscC"
+    },
+    "issueNumber": 17,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-08-10T01:32:12.000Z"
+  },
+  {
     "title": "First Person Singular",
     "authors": [
       "Haruki Murakami"
@@ -27,33 +56,6 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2022-07-13T08:15:03.000Z"
-  },
-  {
-    "title": "Ask A Historian",
-    "authors": [
-      "Greg Jenner"
-    ],
-    "publisher": "Weidenfeld & Nicolson",
-    "publishedDate": "2021-10-28",
-    "description": "'Jenner uses all the questions you never dared to ask about history as an excellent excuse to rummage around in some funny, fascinating, and downright peculiar corners of the past. Every page contains delights, and you will be illuminated and entertained in equal measure.' Lindsey Fitzharris, author of The Butchering Art 'If history informs our future, Greg Jenner is one of the best informants out there. He is a natural story-teller, conveying complex ideas and events with pep, verve, and wit. For anyone who regularly asks the question 'Why?', this book is for you.' Susie Dent, author of Word Perfect Why is Italy called Italy? How old is curry? Which people from history would best pull off a casino heist? Who was the richest person of all time? When was the first Monday? What were history's weirdest medical procedures that actually worked? How much horse manure was splattered on the streets of Tudor London? How fast was the medieval Chinese postal system? What did the Flintstones get right about the Stone Age? Who gets to name historical eras, and what will ours be called in 100 years' time? How do we know how people sounded in the past? How old is sign language? In Ask a Historian the author, BBC podcaster, and public historian Greg Jenner provides answers to things you always wondered about, but didn't know who to ask. Responding to 50 genuine questions from the public, Greg whisks you off on an entertaining tour through the ages, revealing the best and most surprising stories, facts, and historical characters from the past. Bouncing through a wide range of subjects - from ancient jokebooks, African empires, and bizarre tales of medicinal cannibalism, to the invention of meringues, mirrors, and menstrual pads - Ask A Historian spans the Stone Age to the Swinging Sixties, and offers up a deliciously amusing and informative smorgasbord of historical curiosities, devoured one morsel at a time.",
-    "image": "http://books.google.com/books/content?id=cZxOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "History"
-    ],
-    "pageCount": 352,
-    "isbn10": "1474618634",
-    "isbn13": "9781474618632",
-    "googleBooks": {
-      "id": "cZxOEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=cZxOEAAAQBAJ&printsec=frontcover&dq=intitle:Ask+a+Historian+by+Greg+Jenner&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=cZxOEAAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=cZxOEAAAQBAJ"
-    },
-    "issueNumber": 15,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-07-13T08:14:36.000Z"
   },
   {
     "title": "A Prayer for the Crown-Shy",
@@ -208,35 +210,6 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2022-05-21T20:06:53.000Z"
-  },
-  {
-    "title": "We Are Bellingcat",
-    "authors": [
-      "Eliot Higgins"
-    ],
-    "publisher": "Bloomsbury Publishing USA",
-    "publishedDate": "2021-03-02",
-    "description": "The page-turning inside account of the organization solving international mysteries and wielding the power of the internet to fight for facts.",
-    "image": "http://books.google.com/books/content?id=Q_haEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 4,
-    "categories": [
-      "Political Science"
-    ],
-    "pageCount": 272,
-    "isbn10": "1635577306",
-    "isbn13": "9781635577303",
-    "googleBooks": {
-      "id": "Q_haEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=Q_haEAAAQBAJ&dq=intitle:We+Are+Bellingcat:+Global+Crime,+Online+Sleuths,+and+the+Bold+Future+of+News+by+Eliot+Higgins&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=Q_haEAAAQBAJ&dq=intitle:We+Are+Bellingcat:+Global+Crime,+Online+Sleuths,+and+the+Bold+Future+of+News+by+Eliot+Higgins&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/We_Are_Bellingcat.html?hl=&id=Q_haEAAAQBAJ"
-    },
-    "issueNumber": 5,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-21T15:52:16.000Z"
   },
   {
     "title": "The 4-hour Workweek",

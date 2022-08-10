@@ -5,13 +5,12 @@ This repository is used to track the books I'm reading, powered by [Bookshelf Ac
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (6)
+### ⌛ Currently reading (5)
 
+[![Book cover of The Hundred Thousand Kingdoms](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D0uoqWWIauscC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rebecca-owen/bookshelf/issues/17 "The Hundred Thousand Kingdoms by N. K. Jemisin")
 [![Book cover of First Person Singular](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DSYXwDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rebecca-owen/bookshelf/issues/16 "First Person Singular by Haruki Murakami")
-[![Book cover of Ask A Historian](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DcZxOEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rebecca-owen/bookshelf/issues/15 "Ask A Historian by Greg Jenner")
 [![Book cover of Year of Wonder](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D5ltKDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rebecca-owen/bookshelf/issues/8 "Year of Wonder by Clemency Burton-Hill")
 [![Book cover of Leonardo Da Vinci](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DvkA5DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rebecca-owen/bookshelf/issues/6 "Leonardo Da Vinci by Walter Isaacson")
-[![Book cover of We Are Bellingcat](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DQ_haEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rebecca-owen/bookshelf/issues/5 "We Are Bellingcat by Eliot Higgins")
 [![Book cover of The 4-hour Workweek](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DhNmODQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rebecca-owen/bookshelf/issues/4 "The 4-hour Workweek by Timothy Ferriss")
 
 ### ✅ Completed (5)
