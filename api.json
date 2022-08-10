@@ -81,8 +81,11 @@
     },
     "issueNumber": 14,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-07-13T08:14:03.000Z"
+    "state": "completed",
+    "startedAt": "2022-07-13T08:14:03.000Z",
+    "completedAt": "2022-08-10T01:30:08.000Z",
+    "timeToComplete": 2394965000,
+    "timeToCompleteFormatted": "3 weeks"
   },
   {
     "title": "The Thursday Murder Club",
